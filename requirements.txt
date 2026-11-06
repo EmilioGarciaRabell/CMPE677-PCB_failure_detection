@@ -1,1 +1,6 @@
-ultralytics==8.4.202
+ultralytics>=8.3,<9
+opencv-python
+matplotlib
+pandas
+scikit-learn
+pyyaml

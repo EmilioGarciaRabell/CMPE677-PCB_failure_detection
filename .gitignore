@@ -1,6 +1,21 @@
+# Virtual environments
 .venv/
-data/
-runs/
-*.pt
+.venv311/
+
+# Python
 __pycache__/
-.ipynb_checkpoints/
+*.pyc
+
+# Datasets
+data/
+
+# Model weights
+*.pt
+*.pth
+
+# Training outputs
+runs/
+
+# Local files
+.env
+.vscode/
