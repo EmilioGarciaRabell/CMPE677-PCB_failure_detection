@@ -19,3 +19,4 @@ runs/
 # Local files
 .env
 .vscode/
+.ipynb_checkpoints/
